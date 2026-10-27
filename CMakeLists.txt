@@ -1,24 +1,22 @@
-cmake_minimum_required(VERSION 3.10)
-project(trip_planner)
+cmake_minimum_required(VERSION 3.17) #версия CMake которая нужна бля сборки
 
-set(CMAKE_CXX_STANDARD 17)
+project(Trip_planner VERSION 1.0) #название проекта (после будет именем исполняемого файла) и версия
 
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
-# ВАЖНО: перечисли здесь ВСЕ файлы с кодом, включая главный (test.cpp или main.cpp)
-add_subdirectory(nlohmann_json)
+set(CMAKE_CXX_STANDARD 14) #устанавливаем версию стандарта С++
+set(MY_INCLUDE_DIR ${CMAKE_SOURCE_DIR}/include)
 
-add_executable(Tul
-    test.cpp                # Твой главный файл с функцией main()
-    Event.cpp           # Реализация Event
-    DaySchedule.cpp     # Реализация DaySchedule
-    TripPlanner.cpp     # Реализация TripPlanner\
-    Event.h           # Реализация Event
-    DaySchedule.h     # Реализация DaySchedule
-    TripPlanner.h
-    JsonLoader.h
-    JsonLoader.cpp
-)
+set(CMAKE_AUTOMOC ON) #для сигналов и слотов        
+set(CMAKE_AUTOUIC ON) #для дизайна окон
+set(CMAKE_AUTORCC ON) #для ресурсов
 
-target_link_libraries(Tul PRIVATE 
-    nlohmann_json::nlohmann_json 
-)
+#set(CMAKE_PREFIX_PATH "C:\\Qt\\5.15.2\\mingw81_64\\lib\\cmake") #путь к пакетным файлам Qt
+find_package(Qt5 COMPONENTS
+        Core
+        Gui
+        Widgets
+        REQUIRED) #поиск и установка из пакетных файлов
+
+
+add_subdirectory(src)
+
+
