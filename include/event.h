@@ -15,7 +15,7 @@ namespace Ui
 class Dialog2;
 }
 QT_END_NAMESPACE
-
+ 
 class Event : public QDialog
 {
     Q_OBJECT

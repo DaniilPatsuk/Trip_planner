@@ -1,0 +1,138 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/app_autogen",
+	"CMAKE_BINARY_DIR" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/src",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/src/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/app_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "app_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/include/choose_date.h",
+			"MU",
+			"DGKZTCOIDE/moc_choose_date.cpp",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/include/city.h",
+			"MU",
+			"DGKZTCOIDE/moc_city.cpp",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/include/event.h",
+			"MU",
+			"DGKZTCOIDE/moc_event.cpp",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/include/mainwindow.h",
+			"MU",
+			"DGKZTCOIDE/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/include/scroll_widget.h",
+			"MU",
+			"DGKZTCOIDE/moc_scroll_widget.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/app_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/app_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/include",
+		"C:/Qt/5.15.2/mingw81_64/include",
+		"C:/Qt/5.15.2/mingw81_64/include/QtCore",
+		"C:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"C:/Qt/5.15.2/mingw81_64/include/QtGui",
+		"C:/Qt/5.15.2/mingw81_64/include/QtANGLE",
+		"C:/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++",
+		"C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/c++/backward",
+		"C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include",
+		"C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include-fixed",
+		"C:/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/mingw64/bin/c++.exe",
+		"-std=gnu++14",
+		"-w",
+		"-dM",
+		"-E",
+		"C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/app_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/CMakeFiles/app_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/CMakeFiles/app_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/src/choose_date.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/src/city.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/src/event.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/src/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/src/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/src/scroll_widget.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [ "C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/ui" ],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

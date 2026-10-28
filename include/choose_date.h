@@ -12,7 +12,7 @@ class Dialog;
 }
 QT_END_NAMESPACE
 
-
+ 
 class Date : public QDialog
 {
     Q_OBJECT

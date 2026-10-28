@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/cmake_install.cmake",
+		"C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

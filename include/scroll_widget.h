@@ -19,7 +19,7 @@ class ScrollWgt : public QWidget
     Q_OBJECT
 
 public:
-
+ 
     ScrollWgt(QJsonObject &event, QWidget *parent = 0);
     ~ScrollWgt();
 private:

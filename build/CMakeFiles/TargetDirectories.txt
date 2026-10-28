@@ -1,0 +1,7 @@
+C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/CMakeFiles/edit_cache.dir
+C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/CMakeFiles/rebuild_cache.dir
+C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/CMakeFiles/app.dir
+C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/CMakeFiles/edit_cache.dir
+C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/CMakeFiles/rebuild_cache.dir
+C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/CMakeFiles/app_autogen_timestamp_deps.dir
+C:/__work/skillbox-projects/profession-c-plus-plus/Trip_planner/build/src/CMakeFiles/app_autogen.dir

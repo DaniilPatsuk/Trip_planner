@@ -12,7 +12,7 @@ namespace Ui {
 class Dialog1;
 }
 QT_END_NAMESPACE
-
+ 
 class City : public QDialog
 {
     Q_OBJECT
