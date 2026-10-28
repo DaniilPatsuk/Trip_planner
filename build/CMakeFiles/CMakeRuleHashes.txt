@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+3954a41b0c244ab938df053def5bd581 _deps/curl-build/CMakeFiles/curl_uninstall

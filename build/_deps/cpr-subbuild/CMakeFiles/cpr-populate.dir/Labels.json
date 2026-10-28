@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/CMakeFiles/cpr-populate"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/CMakeFiles/cpr-populate.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/CMakeFiles/cpr-populate-complete.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test.rule"
+		},
+		{
+			"file" : "D:/skillbox-projects/trip_planner_new/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cpr-populate"
+		],
+		"name" : "cpr-populate"
+	}
+}

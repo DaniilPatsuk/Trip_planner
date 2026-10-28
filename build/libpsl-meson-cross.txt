@@ -1,0 +1,11 @@
+[binaries]
+c = 'C:/mingw64/bin/cc.exe'
+cpp = 'C:/mingw64/bin/c++.exe'
+ar = 'C:/mingw64/bin/ar.exe'
+strip = 'C:/mingw64/bin/strip.exe'
+
+[host_machine]
+system = 'windows'
+cpu_family = 'x86_64'
+cpu = 'x86_64'
+endian = 'little'

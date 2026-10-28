@@ -1,0 +1,61 @@
+{
+  "city": {
+    "Saint-Petersburg": {
+      "activities": [
+        {
+          "name": "Экскурсия в Эрмитаж (AllFix)",
+          "type": "AllFix",
+          "date": "2026.09.26",
+          "time": "14:00",
+          "duration": 120,
+          "latitude": 59.9398,
+          "longitude": 30.3146
+        },
+        {
+          "name": "Обед в первый день (DayFix)",
+          "type": "DayFix",
+          "date": "2026.09.26",
+          "duration": 60,
+          "start_time": "12:00",
+          "end_time": "19:00",
+          "latitude": 59.9344,
+          "longitude": 30.3225
+        },
+        {
+          "name": "Звонок маме в 20:00 (TimeFix)",
+          "type": "TimeFix",
+          "start_date": "2026.09.26",
+          "end_date": "2026.09.27",
+          "duration": 30,
+          "time": "16:00",
+          "latitude": 59.9405,
+          "longitude": 30.3385
+        },
+        {
+          "name": "Покупка сувениров (NoneFix)",
+          "type": "NoneFix",
+          "start_date": "2026.09.26",
+          "end_date": "2026.09.27",
+          "duration": 60,
+          "start_time": "14:00",
+          "end_time": "17:00",
+          "latitude": 59.9328,
+          "longitude": 30.3285
+        }
+      ],
+      "habitations": [
+        {
+          "name": "Отель Астория",
+          "latitude": 59.9341,
+          "longitude": 30.3358,
+          "time": "23:00",
+          "duration": 480
+        }
+      ]
+    }
+  },
+  "date": {
+    "end_date": "2026.09.28",
+    "start_date": "2026.09.26"
+  }
+}

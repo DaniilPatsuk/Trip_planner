@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/skillbox-projects/trip_planner_new/build/_deps/zlib-src/win32/zlib1.rc
+winver.h
+-
+zlib.h
+D:/skillbox-projects/trip_planner_new/build/_deps/zlib-src/win32/zlib.h
+
+_deps/zlib-build/zconf.h
+zlib_name_mangling.h
+_deps/zlib-build/zlib_name_mangling.h
+windows.h
+-
+sys/types.h
+-
+stddef.h
+-
+unistd.h
+-
+
+_deps/zlib-build/zlib.h
+stdint.h
+-
+stdarg.h
+-
+zconf.h
+_deps/zlib-build/zconf.h
+
+_deps/zlib-build/zlib_name_mangling.h
+
